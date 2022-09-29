@@ -1,0 +1,15 @@
+.image{
+    width: 30em ;
+    height: auto;
+    margin:auto;
+    display: block;
+}
+
+h2{
+    color:red;
+    font-size: 10pm;
+}
+
+a{
+    color:white;
+}
